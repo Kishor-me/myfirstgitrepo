@@ -1,5 +1,18 @@
 body{
+<<<<<<< HEAD
   background-color:#bbff00;
+=======
+  background-color:#e5ff00;
+>>>>>>> design-flow
   color:#000;
   font-family:san-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width:100vw;
+  height: 100vh;
+}
+h1{
+  display: block;
+  width: 100%;
 }
